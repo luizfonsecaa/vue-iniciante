@@ -1,0 +1,15 @@
+install vue 
+npm  vue cli@2.7.0 -g
+
+novo projeto 
+vue init webpack-simple "nome do projeto sem aspas" 
+
+instalar dependencias 
+npm install 
+
+rodar aplicação 
+npm run dev 
+
+api
+npm install vue-resource@1.0.3 --save
+"--save e para deixar escrito que e dependencias "
